@@ -1,6 +1,6 @@
 *Hey there! I'm Swetha Jivireddi*😊
 --------------------------
-👨🏻‍💻*About Me*
+👨🏻‍💻**About Me**
 
 - 🎓I'm currently pursuing Electronics and Communication Engineering at Vignan's institute of Engineering for women.
 - 💡I am always eager to expand my skills in field of Vlsi and Web development.
